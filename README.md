@@ -19,9 +19,9 @@ Esse "pequeno" projeto, consiste em um sisteminha CRUD feito utilizado Java e My
   
   OBSERVAÇÕES: 
  - Crie o banco de dados com o nome estoque.
- - A porta utilizad no banco de dados é a 3306. Caso necessite usar outra porta, siga o passo-a-passo a seguir: Com o projeto aberto na IDE --> src --> br.com.estoque.factory --> ConnectionFactory.java --> modifique a porta no caminho da função public static final String URL_DATABASE,
+ - A porta utilizadQ no banco de dados é a 3306. Caso necessite usar outra porta, siga o passo-a-passo a seguir: Com o projeto aberto na IDE; --> src --> br.com.estoque.factory --> ConnectionFactory.java --> modifique a porta no caminho da função public static final String URL_DATABASE,
 
-Feitos todos os passos anteriores, o sistema pronto para ser executado;
+Feitos todos os passos anteriores, o sistema ESTÁ pronto para ser executado;
 
  - Execute o projeto, e interaja por meio do teclado digitando número correspondente a função e pressione ENTER.
 
